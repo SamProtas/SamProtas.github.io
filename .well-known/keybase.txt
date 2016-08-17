@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/samprotas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samprotas.com
+  * I am samprotas (https://keybase.io/samprotas) on keybase.
+  * I have a public key ASDiGWC7SqU2fq38rIkrjMg3SiKh35eRnVwGXqBgCcmAfQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e21960bb4aa5367eadfcac892b8cc8374a22a1df97919d5c065ea06009c9807d0a",
+            "host": "keybase.io",
+            "kid": "0120e21960bb4aa5367eadfcac892b8cc8374a22a1df97919d5c065ea06009c9807d0a",
+            "uid": "17114f277f33101d702654a85f37a219",
+            "username": "samprotas"
+        },
+        "service": {
+            "hostname": "samprotas.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1471392292,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471392263,
+        "hash": "51c4a92c2a0b0606ca48abc1abc8b659d91118928e8b1251a52730908abac30b2bc7c73cf706877b6ef3e069bfab523918ded28ba54cc5fb6869de159435ee4b",
+        "seqno": 583025
+    },
+    "prev": "083d951fa9e82eea05654312323846d30af86b0c044b8cfdeb031a3ea95925f6",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4hlgu0qlNn6t/KyJK4zIN0oiod+XkZ1cBl6gYAnJgH0Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTIxOTYwYmI0YWE1MzY3ZWFkZmNhYzg5MmI4Y2M4Mzc0YTIyYTFkZjk3OTE5ZDVjMDY1ZWEwNjAwOWM5ODA3ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTIxOTYwYmI0YWE1MzY3ZWFkZmNhYzg5MmI4Y2M4Mzc0YTIyYTFkZjk3OTE5ZDVjMDY1ZWEwNjAwOWM5ODA3ZDBhIiwidWlkIjoiMTcxMTRmMjc3ZjMzMTAxZDcwMjY1NGE4NWYzN2EyMTkiLCJ1c2VybmFtZSI6InNhbXByb3RhcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2FtcHJvdGFzLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzEzOTIyOTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MTM5MjI2MywiaGFzaCI6IjUxYzRhOTJjMmEwYjA2MDZjYTQ4YWJjMWFiYzhiNjU5ZDkxMTE4OTI4ZThiMTI1MWE1MjczMDkwOGFiYWMzMGIyYmM3YzczY2Y3MDY4NzdiNmVmM2UwNjliZmFiNTIzOTE4ZGVkMjhiYTU0Y2M1ZmI2ODY5ZGUxNTk0MzVlZTRiIiwic2Vxbm8iOjU4MzAyNX0sInByZXYiOiIwODNkOTUxZmE5ZTgyZWVhMDU2NTQzMTIzMjM4NDZkMzBhZjg2YjBjMDQ0YjhjZmRlYjAzMWEzZWE5NTkyNWY2Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOGVoyOCnBO1ltnRHYZisn1G8RPMd6D9CktuaBIpmDiBuuM5A+o1eoXK1XXMxa7dl3TvEL/x0qUivsBYFV35+Ayoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCMV24I259PTY7Lo9rvElRo1moJBGC8pngnHA8fWVPA0KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samprotas
+
+==================================================================
+
